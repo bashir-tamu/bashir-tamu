@@ -1,23 +1,4 @@
-# AL BASHIR, Ph.D.
-
-**Robotics | Computer Vision | Robot Learning and Control**
-
-I work on robotic perception, learning-based control, and autonomous manipulation. My research focuses on developing methods that allow robots to perceive complex environments, learn effective control policies, and perform reliable physical interactions.
-
-My doctoral research at Texas A&M University, conducted at Texas A&M AgriLife Research–Dallas, has involved deep learning-based visual perception, RGB-D sensing, multi-instance pose estimation, deep reinforcement learning, constrained robotic control, and sim-to-real transfer. Robotic harvesting has served as a real-world testbed for investigating these problems, from visual target localization to motion planning and physical manipulation.
-
-I received my B.Sc. and M.Sc. degrees in Computer Science and Engineering from Jagannath University, Bangladesh, and completed my doctoral dissertation in Biological and Agricultural Engineering at Texas A&M University.
-
-## Research Interests
-
-**Robot Perception:** Computer vision, 3D perception, multi-instance pose estimation, and visual scene understanding.
-
-**Robot Learning and Control:** Reinforcement learning, constrained policy optimization, sim-to-real transfer, and learning-based robotic manipulation.
-
-**Embodied Intelligence:** Vision-language-action models, world-action models, generalizable robot policies, and autonomous systems.
-
-I am particularly interested in extending my research toward general-purpose robotic manipulation, embodied AI, and perception and control for autonomous vehicles.
-
-## Research Projects
-
-Research implementations, experimental configurations, and reproducibility resources associated with my publications will be made available here as they are released.
+#Al Bashir, Ph.D.
+I'm a graduate research assistant (defended thesis) in the Department of Bio. and Ag. Engineering, Texas A&M University, College Station, USA. I received my B.Sc. and M.Sc. degrees in Computer Science and Engineering from Jagannath University, Bangladesh. My research focuses on computer vision, robot perception, and learning-based control, particularly on developing algorithms that enable robots to perceive targets with appropriate geometry, sense their surroundings, make decisions, and perform reliable physical interactions in complex environments. I am especially interested in connecting visual perception with planning and control to improve the autonomy and adaptability of robotic systems.
+In my doctoral research, I have explored several problems in robotic perception and manipulation, using autonomous harvesting as a real-world testbed. My work includes RGB-D perception and target localization under occlusion, deep learning-based object detection and segmentation, multi-instance pose estimation, and vision-guided robotic manipulation. I have also investigated deep reinforcement learning (DRL) for robotic motion control, including simulation-trained policies in NVIDIA Isaac Sim/Lab, sim-to-real transfer, and constrained motion planning. These efforts have involved developing perception algorithms, designing robotic end-effectors, and integrating learning-based approaches with physical robotic systems.
+Building on this work, I am currently pursuing multiple projects involving vision-language-action (VLA) models and world-action models (WAM) for robot control. Looking ahead, I aim to advance research in general-purpose robotic intelligence, particularly at the intersection of perception, learning, and control. I am particularly interested in extending these approaches toward learning-based frameworks that enable robots to reason about their environments, predict the consequences of actions, and adapt to unfamiliar situations. My broader research interests include embodied intelligence, autonomous manipulation, and perception and control for safe automation.
